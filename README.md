@@ -1,5 +1,5 @@
 # library
-Graduate Coursework Code Library
+Graduate Coursework Code Library\
 University of Maryland, College Park
 
 This library contains all MATLAB functions written to complete projects and homework assignments for the following courses:
@@ -13,4 +13,4 @@ ENAE 696 - Spacecraft Thermal Design\
 ENAE 791 - Launch and Entry Vehicle Design\
 ENAE 788L - Optimal Estimation of Dynamic Systems\
 ENAE 602 - Spacecraft Attitude Dynamics and Control\
-ENAE 741 - Interplanetary Navigation and Guidance\
+ENAE 741 - Interplanetary Navigation and Guidance
