@@ -1,0 +1,7 @@
+# ignore mat, fig, text, and temporary (~) files
+*.mat
+*.fig
+*.txt
+*~
+
+
