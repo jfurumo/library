@@ -26,7 +26,7 @@ K_vec(i,:)=K(i)*K_hat;
 end
 plot3(r_earth*K_hat,0,0);
 plot3(K_vec(:,1),K_vec(:,2),K_vec(:,3),'b-','linewidth',2);
-axis equal;
-xlim([-25000 25000]);
-ylim([-25000 25000]);
-zlim([-25000 25000]);
+% axis equal;
+% xlim([-25000 25000]);
+% ylim([-25000 25000]);
+% zlim([-25000 25000]);
